@@ -8,14 +8,6 @@ A React-based visualizer for sorting algorithms, starting with Bubble Sort.
 - Clean and modular React code structure
 - Easy to extend with more algorithms in the future
 
-## Technologies Used
-
-- **React.js** – Frontend framework used to build interactive UI components
-- **JavaScript (ES6+)** – For logic and algorithm implementation
-- **HTML5 & CSS3** – Markup and styling of the visualizer
-- **Vite** or **Create React App** – (whichever you're using to scaffold the project)
-- **Git & GitHub** – Version control and collaboration
-
 ## Usage
 Open the app in your browser at http://localhost:3000
 
@@ -26,6 +18,14 @@ Select Bubble Sort to visualize the sorting process step-by-step with animations
 Watch the bars rearrange as the algorithm progresses
 
 Easily extende the project by adding more sorting algorithms in the src folder
+
+## Technologies Used
+
+- **React.js** – Frontend framework used to build interactive UI components
+- **JavaScript (ES6+)** – For logic and algorithm implementation
+- **HTML5 & CSS3** – Markup and styling of the visualizer
+- **Vite** or **Create React App** – (whichever you're using to scaffold the project)
+- **Git & GitHub** – Version control and collaboration
 
 ## Contributing
 
