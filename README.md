@@ -7,7 +7,7 @@ A React-based visualizer for sorting algorithms, starting with Bubble Sort.
 - Generate random arrays for sorting
 - Clean and modular React code structure
 - Easy to extend with more algorithms in the future
-- 
+
 ## Technologies Used
 
 - **React.js** – Frontend framework used to build interactive UI components
