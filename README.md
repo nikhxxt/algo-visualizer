@@ -1,5 +1,12 @@
 # AlgoViz 🔍
 
+![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
+![License](https://img.shields.io/github/license/nikhxxt/algo-visualizer)
+![NPM](https://img.shields.io/badge/npm-v9.0.0-blue)
+![Issues](https://img.shields.io/github/issues/nikhxxt/algo-visualizer)
+![Forks](https://img.shields.io/github/forks/nikhxxt/algo-visualizer)
+![Stars](https://img.shields.io/github/stars/nikhxxt/algo-visualizer)
+
 A React-based visualizer for sorting algorithms, starting with Bubble Sort.
 
 ## Features
