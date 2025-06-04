@@ -19,7 +19,7 @@ npm install
 npm start
 
 
-Usage
+## Usage
 Open the app in your browser at http://localhost:3000
 
 Generate a random array of bars by clicking the Generate Array button
