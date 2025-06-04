@@ -17,3 +17,24 @@ git clone https://github.com/nikhxxt/algoviz.git
 cd algoviz
 npm install
 npm start
+
+
+Usage
+Open the app in your browser at http://localhost:3000
+
+Generate a random array of bars by clicking the Generate Array button
+
+Select Bubble Sort to visualize the sorting process step-by-step with animations
+
+Watch the bars rearrange as the algorithm progresses
+
+Easily extend the project by adding more sorting algorithms in the src folder
+
+## Contributing
+
+Contributions are welcome! Please see the [CONTRIBUTING.md](CONTRIBUTING.md) file for details on how to contribute.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
