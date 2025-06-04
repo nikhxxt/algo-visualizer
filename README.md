@@ -7,6 +7,14 @@ A React-based visualizer for sorting algorithms, starting with Bubble Sort.
 - Generate random arrays for sorting
 - Clean and modular React code structure
 - Easy to extend with more algorithms in the future
+- 
+## Technologies Used
+
+- **React.js** – Frontend framework used to build interactive UI components
+- **JavaScript (ES6+)** – For logic and algorithm implementation
+- **HTML5 & CSS3** – Markup and styling of the visualizer
+- **Vite** or **Create React App** – (whichever you're using to scaffold the project)
+- **Git & GitHub** – Version control and collaboration
 
 ## Usage
 Open the app in your browser at http://localhost:3000
