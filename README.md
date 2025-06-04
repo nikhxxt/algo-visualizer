@@ -23,6 +23,10 @@ Easily extende the project by adding more sorting algorithms in the src folder
 
 Contributions are welcome! Please see the [CONTRIBUTING.md](CONTRIBUTING.md) file for details on how to contribute.
 
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
 ## Getting Started
 
 Clone the repo:
@@ -33,7 +37,5 @@ cd algoviz
 npm install
 npm start
 
-## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
