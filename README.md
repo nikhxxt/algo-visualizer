@@ -8,17 +8,6 @@ A React-based visualizer for sorting algorithms, starting with Bubble Sort.
 - Clean and modular React code structure
 - Easy to extend with more algorithms in the future
 
-## Getting Started
-
-Clone the repo:
-
-```bash
-git clone https://github.com/nikhxxt/algoviz.git
-cd algoviz
-npm install
-npm start
-
-
 ## Usage
 Open the app in your browser at http://localhost:3000
 
@@ -28,11 +17,21 @@ Select Bubble Sort to visualize the sorting process step-by-step with animations
 
 Watch the bars rearrange as the algorithm progresses
 
-Easily extend the project by adding more sorting algorithms in the src folder
+Easily extende the project by adding more sorting algorithms in the src folder
 
 ## Contributing
 
 Contributions are welcome! Please see the [CONTRIBUTING.md](CONTRIBUTING.md) file for details on how to contribute.
+
+## Getting Started
+
+Clone the repo:
+
+```bash
+git clone https://github.com/nikhxxt/algoviz.git
+cd algoviz
+npm install
+npm start
 
 ## License
 
