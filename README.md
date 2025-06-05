@@ -13,7 +13,7 @@ A React-based visualizer for sorting algorithms, starting with Bubble Sort.
 - Visualizes sorting process with animated bars
 - Generate random arrays for sorting
 - Clean and modular React code structure
-- Easy to extend with more algorithms in the future
+- Easy to extend with more algorithms in the future 
 
 ## Usage
 Open the app in your browser at http://localhost:3000
