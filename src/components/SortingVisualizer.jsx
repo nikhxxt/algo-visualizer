@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import bubbleSort from "../algorithms/bubbleSort";
+import { bubbleSort } from "../algorithms/bubbleSort";  // Corrected named import
 
 const SortingVisualizer = () => {
   const [array, setArray] = useState([]);
@@ -60,3 +60,4 @@ const SortingVisualizer = () => {
 };
 
 export default SortingVisualizer;
+
