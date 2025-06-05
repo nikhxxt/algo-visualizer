@@ -62,7 +62,5 @@ const SortingVisualizer = () => {
 export default SortingVisualizer;
 
 
-};
 
-export default SortingVisualizer;
 
