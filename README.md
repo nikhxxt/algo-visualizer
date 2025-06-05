@@ -61,15 +61,5 @@ Please see the [CONTRIBUTING.md](CONTRIBUTING.md) file for details on how to con
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-### Notes:
-
-- Fixed repo clone URL from `algoviz.git` to `algo-visualizer.git` (matches your repo name).
-- Added sections for **Screenshots** with a placeholder image path. You can add screenshots in a `/screenshots/` folder.
-- Cleaned up usage instructions for clarity.
-- Added horizontal separators `---` for readability.
-- Improved wording for professionalism and clarity.
-
-
-
 
 
