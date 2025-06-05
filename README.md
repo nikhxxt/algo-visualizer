@@ -8,7 +8,7 @@
 ![Stars](https://img.shields.io/github/stars/nikhxxt/algo-visualizer)
 
 A React-based visualizer for sorting algorithms, starting with Bubble Sort.
-
+ 
 ## Features
 - Visualizes sorting process with animated bars
 - Generate random arrays for sorting
