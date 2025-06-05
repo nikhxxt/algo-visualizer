@@ -52,9 +52,6 @@ Try the visualizer live here:
 
 ## Screenshots
 
-![Sorting Visualizer Screenshot](screenshots/sorting-visualizer.png)
-*(Replace with your actual screenshot)*
-
 ## Contributing
 
 Contributions are welcome!
