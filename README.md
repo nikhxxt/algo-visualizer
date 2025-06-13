@@ -51,6 +51,7 @@ Try the visualizer live here:
 [https://nikhxxt.github.io/algo-visualizer/](https://nikhxxt.github.io/algo-visualizer/)
 
 ## Screenshots
+![WhatsApp Image 2025-06-13 at 8 26 51 PM](https://github.com/user-attachments/assets/4193167b-cb8a-4e86-a49a-b44d1a5ac103)
 
 ## Contributing
 
