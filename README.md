@@ -9,6 +9,17 @@
 
 A React-based visualizer for sorting algorithms, starting with Bubble Sort.
 
+
+## 📚 Table of Contents
+
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Usage](#usage)
+- [Live Demo](#live-demo)
+- [Screenshots](#screenshots)
+- [License](#license)
+
+  
 ## Features
 
 - Visualizes the sorting process with animated bars
@@ -52,11 +63,6 @@ Try the visualizer live here:
 
 ## Screenshots
 ![WhatsApp Image 2025-06-13 at 8 26 51 PM](https://github.com/user-attachments/assets/4193167b-cb8a-4e86-a49a-b44d1a5ac103)
-
-## Contributing
-
-Contributions are welcome!
-Please see the [CONTRIBUTING.md](CONTRIBUTING.md) file for details on how to contribute.
 
 ## License
 
