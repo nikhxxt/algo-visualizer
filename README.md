@@ -2,44 +2,58 @@
 
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
 ![License](https://img.shields.io/github/license/nikhxxt/algo-visualizer)
-![NPM](https://img.shields.io/badge/npm-v9.0.0-blue)
 ![Issues](https://img.shields.io/github/issues/nikhxxt/algo-visualizer)
 ![Forks](https://img.shields.io/github/forks/nikhxxt/algo-visualizer)
 ![Stars](https://img.shields.io/github/stars/nikhxxt/algo-visualizer)
 
-A React-based web application that visualizes sorting algorithms through animated bars, making it easier to understand how algorithms rearrange data step by step.
+A React-based web application that visualizes the Bubble Sort algorithm through animated bars, providing a step-by-step view of how elements are compared and rearranged.
 
 ---
 
 ## 📚 Table of Contents
 
 - [✨ Features](#-features)
+- [⚙️ How It Works](#️-how-it-works)
 - [🛠️ Technologies Used](#️-technologies-used)
 - [🚀 Getting Started](#-getting-started)
 - [💻 Usage](#-usage)
 - [🌐 Live Demo](#-live-demo)
 - [📸 Screenshots](#-screenshots)
 - [📁 Project Structure](#-project-structure)
-- [🔮 Future Improvements](#-future-improvements)
 - [📜 License](#-license)
 
 ---
 
 ## ✨ Features
 
-- 📊 Visualizes the sorting process using animated bars
-- 🔄 Generates random arrays for sorting
-- 🫧 Step-by-step Bubble Sort visualization
+- 📊 Visualizes Bubble Sort using animated bars
+- 🔄 Generates random arrays for visualization
+- 🫧 Step-by-step comparison and swapping animation
 - ⚡ Interactive React-based interface
-- 🧩 Modular project structure
-- 🛠️ Designed to support additional sorting algorithms
+- 🧩 Separates sorting logic from the UI
+- 📱 Responsive interface for different screen sizes
+
+---
+
+## ⚙️ How It Works
+
+The application represents array values as vertical bars, where the height of each bar corresponds to its value.
+
+When Bubble Sort is started:
+
+1. Adjacent elements are compared.
+2. Elements are swapped when they are in the wrong order.
+3. The bars are updated to reflect each operation.
+4. The process continues until the array is sorted.
+
+This provides a visual representation of the algorithm's comparison and swapping process.
 
 ---
 
 ## 🛠️ Technologies Used
 
 - **React.js** – Builds the interactive user interface
-- **JavaScript (ES6+)** – Implements sorting logic and application behavior
+- **JavaScript (ES6+)** – Implements the sorting logic and application behavior
 - **HTML5** – Structures the application
 - **CSS3** – Handles styling and visual presentation
 - **Create React App** – Development and build setup
@@ -76,7 +90,7 @@ npm install
 npm start
 ```
 
-The application will start locally at:
+The application will be available at:
 
 ```text
 http://localhost:3000
@@ -89,8 +103,8 @@ http://localhost:3000
 1. Open the application in your browser.
 2. Click **Generate New Array** to create a random array.
 3. Click **Bubble Sort** to start the visualization.
-4. Watch the bars rearrange as the algorithm compares and swaps elements.
-5. Generate a new array and run the visualization again.
+4. Observe the bars as elements are compared and swapped.
+5. Generate a new array to run another visualization.
 
 ---
 
@@ -123,31 +137,9 @@ algo-visualizer/
 └── README.md
 ```
 
-> The exact structure may vary depending on the current implementation.
-
----
-
-## 🔮 Future Improvements
-
-Potential extensions include:
-
-* Add Selection Sort
-* Add Insertion Sort
-* Add Merge Sort
-* Add Quick Sort
-* Add sorting speed controls
-* Display algorithm time complexity
-* Add pause and reset controls
-* Improve mobile responsiveness
-
 ---
 
 ## 📜 License
 
 This project is licensed under the **MIT License**. See the [`LICENSE`](LICENSE) file for details.
-
-
-
-
-
 
