@@ -1,4 +1,4 @@
-# Algo-visualizer 🔍
+# 🔍 Algo Visualizer
 
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
 ![License](https://img.shields.io/github/license/nikhxxt/algo-visualizer)
@@ -7,66 +7,147 @@
 ![Forks](https://img.shields.io/github/forks/nikhxxt/algo-visualizer)
 ![Stars](https://img.shields.io/github/stars/nikhxxt/algo-visualizer)
 
-A React-based visualizer for sorting algorithms, starting with Bubble Sort.
+A React-based web application that visualizes sorting algorithms through animated bars, making it easier to understand how algorithms rearrange data step by step.
 
+---
 
 ## 📚 Table of Contents
 
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Usage](#usage)
-- [Live Demo](#live-demo)
-- [Screenshots](#screenshots)
-- [License](#license)
+- [✨ Features](#-features)
+- [🛠️ Technologies Used](#️-technologies-used)
+- [🚀 Getting Started](#-getting-started)
+- [💻 Usage](#-usage)
+- [🌐 Live Demo](#-live-demo)
+- [📸 Screenshots](#-screenshots)
+- [📁 Project Structure](#-project-structure)
+- [🔮 Future Improvements](#-future-improvements)
+- [📜 License](#-license)
 
-  
-## Features
+---
 
-- Visualizes the sorting process with animated bars
-- Generate random arrays for sorting
-- Clean and modular React code structure
-- Easy to extend with more sorting algorithms in the future
+## ✨ Features
 
-## Technologies Used
+- 📊 Visualizes the sorting process using animated bars
+- 🔄 Generates random arrays for sorting
+- 🫧 Step-by-step Bubble Sort visualization
+- ⚡ Interactive React-based interface
+- 🧩 Modular project structure
+- 🛠️ Designed to support additional sorting algorithms
 
-- **React.js** – Frontend framework for building interactive UI components
-- **JavaScript (ES6+)** – Logic and algorithm implementation
-- **HTML5 & CSS3** – Markup and styling
-- **Create React App** – Project scaffolding
-- **Git & GitHub** – Version control and collaboration
+---
 
-## Usage
+## 🛠️ Technologies Used
 
-1. Open the app locally:
+- **React.js** – Builds the interactive user interface
+- **JavaScript (ES6+)** – Implements sorting logic and application behavior
+- **HTML5** – Structures the application
+- **CSS3** – Handles styling and visual presentation
+- **Create React App** – Development and build setup
+- **Git & GitHub** – Version control and project hosting
+
+---
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+Make sure you have the following installed:
+
+- **Node.js**
+- **npm**
+- **Git**
+
+### Clone the Repository
 
 ```bash
 git clone https://github.com/nikhxxt/algo-visualizer.git
 cd algo-visualizer
-npm install
-npm start
 ````
 
-2. Open [http://localhost:3000](http://localhost:3000) in your browser.
+### Install Dependencies
 
-3. Click **Generate New Array** to create a random array of bars.
+```bash
+npm install
+```
 
-4. Click **Bubble Sort** to visualize the sorting process step-by-step with animations.
+### Start the Development Server
 
-5. Watch the bars rearrange as the algorithm progresses.
+```bash
+npm start
+```
 
-6. Extend the project easily by adding more sorting algorithms inside the `src/algorithms` folder and updating the UI.
+The application will start locally at:
 
-## Live Demo
+```text
+http://localhost:3000
+```
 
-Try the visualizer live here:
+---
+
+## 💻 Usage
+
+1. Open the application in your browser.
+2. Click **Generate New Array** to create a random array.
+3. Click **Bubble Sort** to start the visualization.
+4. Watch the bars rearrange as the algorithm compares and swaps elements.
+5. Generate a new array and run the visualization again.
+
+---
+
+## 🌐 Live Demo
+
+Try the visualizer here:
+
 [https://nikhxxt.github.io/algo-visualizer/](https://nikhxxt.github.io/algo-visualizer/)
 
-## Screenshots
-![WhatsApp Image 2025-06-13 at 8 26 51 PM](https://github.com/user-attachments/assets/4193167b-cb8a-4e86-a49a-b44d1a5ac103)
+---
 
-## License
+## 📸 Screenshots
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+![Algo Visualizer](https://github.com/user-attachments/assets/4193167b-cb8a-4e86-a49a-b44d1a5ac103)
+
+---
+
+## 📁 Project Structure
+
+```text
+algo-visualizer/
+├── public/
+├── src/
+│   ├── algorithms/
+│   ├── components/
+│   ├── App.js
+│   └── index.js
+├── package.json
+├── package-lock.json
+└── README.md
+```
+
+> The exact structure may vary depending on the current implementation.
+
+---
+
+## 🔮 Future Improvements
+
+Potential extensions include:
+
+* Add Selection Sort
+* Add Insertion Sort
+* Add Merge Sort
+* Add Quick Sort
+* Add sorting speed controls
+* Display algorithm time complexity
+* Add pause and reset controls
+* Improve mobile responsiveness
+
+---
+
+## 📜 License
+
+This project is licensed under the **MIT License**. See the [`LICENSE`](LICENSE) file for details.
+
+
+
 
 
 
